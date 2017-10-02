@@ -1,8 +1,8 @@
 # ClothingClassifier
 A clothing classifier using pre-trained neural networks
 
-Dataset - [Clothing Attributes Dataset](http://huizhongchen.github.io/datasets.html#clothingattributedataset)
-VGG16 weights file - [vgg_weights.h5](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
+-Dataset - [Clothing Attributes Dataset](http://huizhongchen.github.io/datasets.html#clothingattributedataset)
+-VGG16 weights file - [vgg_weights.h5](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
 
 ## Methodology-
 - Extracted the labels from the .mat file. The code currently contains the classifier for the category_GT.mat file
