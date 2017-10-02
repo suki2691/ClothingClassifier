@@ -1,5 +1,5 @@
 # ClothingClassifier
-A [clothing classifier](https://github.com/suki2691/ClothingClassifier/blob/master/Clothing_Classifier.ipynb) using pre-trained neural networks
+A [clothing classifier](https://github.com/suki2691/ClothingClassifier/blob/master/Clothing_Classifier.ipynb) using pre-trained neural networks (code- Clothing_Classifier.ipynb)
 
 - Dataset - [Clothing Attributes Dataset](http://huizhongchen.github.io/datasets.html#clothingattributedataset)
 - VGG16 weights file - [vgg_weights.h5](https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
