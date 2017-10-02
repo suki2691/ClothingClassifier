@@ -16,16 +16,16 @@ VGG16 weights file - [vgg_weights.h5](https://drive.google.com/file/d/0Bz7KyqmuG
 - During initial runs, the accuracy for the training set was greater than that of the validation set. So I added dropout to 2 of the dense layers, L1 and L2 regularization and added more parameters to ImageDataGenerator to reduce overfitting
 
 Performance after adjusting for overfitting:
-![alt text](https://github.com/suki2691/ClothingClassifier/blob/master/train-val-acc.png 'Model Accuracy')
+![alt_text](https://github.com/suki2691/ClothingClassifier/blob/master/train-val-acc.png 'Model Accuracy')
 
 - The model was achieving 48% accuracy on the training set
 - The confusion matrix for the output:
-![alt text](https://github.com/suki2691/ClothingClassifier/blob/master/confusion_matrix.png 'Confusion Matrix')
+![alt_text](https://github.com/suki2691/ClothingClassifier/blob/master/confusion_matrix.png 'Confusion Matrix')
 - The model was able to identify the clothes categories for those images which were labelled as 'none'
 
 
 This image was labelled as 'none' in the data set, but the model labelled it as 'sweater'-
-![alt text](https://github.com/suki2691/ClothingClassifier/blob/master/000064.jpg)
+![alt_text](https://github.com/suki2691/ClothingClassifier/blob/master/000064.jpg)
 
 ## Next Steps-
 - Try other pre-trained models
