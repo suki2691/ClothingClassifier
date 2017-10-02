@@ -1,0 +1,44 @@
+The Clothing Attribute Dataset
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Citation
+H. Chen, A. Gallagher, B. Girod, "Describing Clothing by Semantic Attributes", European Conference on Computer Vision (ECCV), 2012.
+
+Bibtex
+@inproceedings{chen_eccv2012,
+title = {Describing Clothing by Semantic Attributes},
+author={H. Chen and A. Gallagher and B. Girod},
+booktitle = {Proc. ECCV},
+year={2012},
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The dataset contains 1856 images, with 26 ground truth clothing attributes collected using Amazon Mechanical Turk. All labels are arranged in the order from image 1 to 1856. Some label entries are 'NaN', meaning the 6 human workers cannot reach an agreement on this clothing attribute. Details of the clothing attributes labels are shown below:
+
+* Necktie: 1. No necktie; 2. Has necktie
+* Collar: 1. No collar; 2. Has collar
+* Gender: 1. Male; 2. Female
+* Placket: 1. No placket; 2. Has placket
+* Skin exposure: 1. Low exposure; 2. High exposure
+* Wear scarf: 1. No scarf; 2. Has scarf
+* Solid pattern: 1. No; 2. Yes
+* Floral pattern: 1. No; 2. Yes
+* Spotted pattern: 1. No; 2. Yes
+* Graphics pattern: 1. No; 2. Yes
+* Plaid pattern: 1. No; 2. Yes
+* Striped pattern: 1. No; 2. Yes
+* Red color: 1. No; 2. Yes
+* Yellow color: 1. No; 2. Yes
+* Green color: 1. No; 2. Yes
+* Cyan color: 1. No; 2. Yes
+* Blue color: 1. No; 2. Yes
+* Purple color: 1. No; 2. Yes
+* Brown color: 1. No; 2. Yes
+* White color: 1. No; 2. Yes
+* Gray color: 1. No; 2. Yes
+* Black color: 1. No; 2. Yes
+* Many (>2) colors: 1. No; 2. Yes
+* Sleeve length: 1. No sleeves; 2. Short sleeves; 3. Long sleeves
+* Neckline: 1. V-shape; 2. Round; 3. Other shapes
+* Category: 1. Shirt; 2. Sweater; 3. T-shirt; 4. Outerwear; 5. Suit; 6. Tank Top; 7. Dress
+
